@@ -1,4 +1,4 @@
-# Return a reversed copy of the array
+#return a reversed copy of the array
 
 def reverse(an_array)
    an_temp_array = Array(an_array.length)
@@ -64,3 +64,5 @@ end
 # puts histogram('The Quick brown fox').inspect
 # puts sum_only_numbers([4, 'foo',[ ],27, :rain, 3.14])
 # puts fizzbuzz.join("\n")
+
+
